@@ -1,0 +1,45 @@
+body{
+  background:#1EF7D3;
+}
+.overall{
+  width:100%;
+  border: 2px solid black;
+  display: flex;
+  flex-wrap: wrap;
+  display: center;
+
+}
+.career{
+  width: 95%;
+  border:2px solid black;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+}
+.Detail{
+  width:40%;
+  border:2px solid red;
+  text-align: center;
+  margin: 25px;
+  padding: 20px;
+  border-radius: 2%;
+  background: #35A4DF;
+
+}
+input,select{
+  width:70%;
+  height: -8px;
+  margin:2px;
+}
+.skills{
+  width: 95%;
+  border:2px solid black;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+
+}
+#SUBMIT{
+  width:20%;
+  font-size: 200%;
+}

@@ -1,0 +1,44 @@
+body{
+  background:#F4D03F
+}
+h1{
+  text-align: center;
+  font-weight: 40px;
+  background: #5D6D7E;
+  color:#F1948A;
+}
+img{
+  width:8%;
+  height:8%;
+  float:right;
+  }
+.child {
+  width: 80px;
+   height: 125px;
+  padding: 3%;
+  margin:1%;
+  border: 2px solid red;
+  border-radius: 3px solid #fff;
+  background:white;
+  display: block;
+  text-align: center;
+  justify-content: center;
+  /* display: flex; */
+
+}
+.parent{
+  display: flex;
+}
+.link{
+  text-decoration: none;
+  color: black;
+}
+.child img{
+  width:60px;
+  height:60px;
+  padding: 15%;
+
+  /* align-items: center; */
+  /* float: left; */
+
+}

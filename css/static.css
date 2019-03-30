@@ -1,0 +1,89 @@
+.overall{
+  justify-content: center;
+ text-align: center;
+ margin: 3px;
+ padding:23px;
+ border: 2px solid black;
+ border-radius: 2px;
+  display: flex;
+
+
+}
+.left{
+  width: 30%;
+  border:3px solid red;
+  border-radius:2px;
+  text-align: center;
+  flex-wrap: wrap;
+}
+/* .left img{
+  margin:5px;
+  width:80%; */
+/* } */
+.left img{
+  width:30%;
+  padding: 2%;
+  &nbsp;
+}
+
+.right{
+  text-align: center;
+  width : 70%;
+  margin:1%;
+  border:2px solid blue;
+  border-radius: 2px;
+}
+table th,td{
+
+  border:2px solid red;
+  border-radius: 2px;
+}
+/* #canvas{
+  text-align: left;
+}
+#canvas1{
+  text-align: center;
+
+}
+table th,td{
+
+  border:2px solid red;
+  border-radius: 2px;
+
+}
+table tr:nth-child(even){
+  background-color: violet;
+} */
+/* #can{
+  text-align: left;
+}
+#can1{
+  text-align: left;
+}
+
+
+@media screen and (max-width:767px){
+  .overall{
+    flex-wrap:wrap;
+    display: flex;
+  }
+.left,.right{
+
+  margin:2px;
+  font-size:8px;
+  width:90%;
+} */
+/* }
+@media screen and (min-width:768px) and (max-width:1024px){
+  .overall{
+    flex-wrap:wrap;
+    width: 100%;
+  }
+  .left,.right{
+    width:45%;
+}
+table{
+margin-left:8px;
+  font-size:8px;
+}
+} */ */
